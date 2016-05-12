@@ -1,2 +1,2 @@
 # parallax-example
-<h3>Simple parallax example</h3>
+<h3>Simple bootstrap parallax example</h3>
